@@ -10,16 +10,22 @@
 ## Section ONE
 
 # Complete the following print statement to print out "Hello, COSC1010"
-print("Hello, COSC1010")
+print()
 
 
 
 # Assign the string above to a variable named hello_message and print that variable
-hello_message = ""
-print("Your code here")
+hello_message = "Cowboy Joe"
+print("message")
+
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 print("Your code here")
+
+name = "Cowboy Joe"
+print (name.upper())
+print (name.lower ())
+
 
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
