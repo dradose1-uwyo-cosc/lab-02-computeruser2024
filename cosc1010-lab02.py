@@ -1,14 +1,15 @@
-# Your Name Here
+# Emma Leyba
 # UWYO COSC 1010
-# Submission Date
+# 09/16/24
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 14
+None: 
 # your
 # comments
 # here
 
-your_variable_here = "when you see this, replace it with your code"
+python 3
+
 
 ## Section ONE
 
